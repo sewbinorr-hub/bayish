@@ -11,6 +11,7 @@ import { AdminScheduleManager } from "@/components/admin/AdminScheduleManager";
 import { AdminMessageSender } from "@/components/admin/AdminMessageSender";
 import { AdminNutritionManager } from "@/components/admin/AdminNutritionManager";
 import { AdminProgressPhotos } from "@/components/admin/AdminProgressPhotos";
+import { AdminUserList } from "@/components/admin/AdminUserList";
 
 const Admin = () => {
   const navigate = useNavigate();
